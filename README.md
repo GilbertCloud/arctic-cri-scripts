@@ -1,5 +1,7 @@
 # arctic-cri-scripts
 
+[![DOI](https://zenodo.org/badge/821540434.svg)](https://zenodo.org/doi/10.5281/zenodo.12612341)
+
 This repository contains the run scripts and namelists for all of the experiments in the submitted paper "A Novel Model Hierarchy Isolates the Effect of Temperature-dependent Cloud Optics on Infrared Radiation" by Ash Gilbert, Jennifer Kay, and Penny Rowe.
 
 Created by Ash Gilbert (ash.gilbert@colorado.edu) and contact them for any questions.
