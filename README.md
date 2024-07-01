@@ -1,6 +1,6 @@
 # arctic-cri-scripts
 
-This repository contains the run scripts and namelists for all of the experiments in the article INSERT CITATION HERE
+This repository contains the run scripts and namelists for all of the experiments in the article [To be added]().
 
 Created by Ash Gilbert (ash.gilbert@colorado.edu) and contact them for any questions.
 
